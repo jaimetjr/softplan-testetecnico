@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "k055QHyADIDFA22q9L6Q5ejLznB1wWy+PmeeIKZoasdCn5MdoL4ew1DJZAifblBRwRG8to1OywG5EhwXQoErFQ==",
+  "dgSpecHash": "mRS57ewFnCyVH1prIDidShbxzFqayqC5KDS2wUJffy1TJwe3NRaSwEZ2q0BAfRiWjRPUu9T/zmNMNimnoW0oBQ==",
   "success": true,
   "projectFilePath": "D:\\Programming\\Personal\\softplan-testetecnico\\softplan-testetecnico.tests\\softplan-testetecnico.tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Win 10\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
+    "C:\\Users\\Win 10\\.nuget\\packages\\microsoft.aspnetcore.testhost\\3.1.9\\microsoft.aspnetcore.testhost.3.1.9.nupkg.sha512",
     "C:\\Users\\Win 10\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\Win 10\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\Win 10\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
@@ -22,6 +23,7 @@
     "C:\\Users\\Win 10\\.nuget\\packages\\system.io\\4.1.0\\system.io.4.1.0.nupkg.sha512",
     "C:\\Users\\Win 10\\.nuget\\packages\\system.io.filesystem\\4.0.1\\system.io.filesystem.4.0.1.nupkg.sha512",
     "C:\\Users\\Win 10\\.nuget\\packages\\system.io.filesystem.primitives\\4.0.1\\system.io.filesystem.primitives.4.0.1.nupkg.sha512",
+    "C:\\Users\\Win 10\\.nuget\\packages\\system.io.pipelines\\4.7.3\\system.io.pipelines.4.7.3.nupkg.sha512",
     "C:\\Users\\Win 10\\.nuget\\packages\\system.linq\\4.1.0\\system.linq.4.1.0.nupkg.sha512",
     "C:\\Users\\Win 10\\.nuget\\packages\\system.linq.expressions\\4.1.0\\system.linq.expressions.4.1.0.nupkg.sha512",
     "C:\\Users\\Win 10\\.nuget\\packages\\system.objectmodel\\4.0.12\\system.objectmodel.4.0.12.nupkg.sha512",
