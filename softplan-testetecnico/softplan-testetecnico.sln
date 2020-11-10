@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "softplan-testetecnico", "softplan-testetecnico.csproj", "{BCB5742D-DB3E-44F8-BA90-AAA7207A8057}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "softplan-testetecnico", "softplan-testetecnico.csproj", "{BCB5742D-DB3E-44F8-BA90-AAA7207A8057}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "softplan-testetecnico.tests", "..\softplan-testetecnico.tests\softplan-testetecnico.tests.csproj", "{BE0415DD-6E17-4194-937B-E4CE7940F8F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BCB5742D-DB3E-44F8-BA90-AAA7207A8057}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCB5742D-DB3E-44F8-BA90-AAA7207A8057}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCB5742D-DB3E-44F8-BA90-AAA7207A8057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE0415DD-6E17-4194-937B-E4CE7940F8F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0415DD-6E17-4194-937B-E4CE7940F8F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0415DD-6E17-4194-937B-E4CE7940F8F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0415DD-6E17-4194-937B-E4CE7940F8F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
