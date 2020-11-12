@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "softplan-testetecnico", "softplan-testetecnico.csproj", "{BCB5742D-DB3E-44F8-BA90-AAA7207A8057}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "softplan-testetecnico.tests", "..\softplan-testetecnico.tests\softplan-testetecnico.tests.csproj", "{BE0415DD-6E17-4194-937B-E4CE7940F8F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "softplan-testetecnico.tests", "..\softplan-testetecnico.tests\softplan-testetecnico.tests.csproj", "{BE0415DD-6E17-4194-937B-E4CE7940F8F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

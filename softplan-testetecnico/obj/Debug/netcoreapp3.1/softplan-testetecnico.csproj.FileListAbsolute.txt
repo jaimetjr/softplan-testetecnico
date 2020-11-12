@@ -1,13 +1,11 @@
 D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\bin\Debug\netcoreapp3.1\softplan-testetecnico.exe
 D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\bin\Debug\netcoreapp3.1\softplan-testetecnico.deps.json
 D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\bin\Debug\netcoreapp3.1\softplan-testetecnico.runtimeconfig.json
 D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\bin\Debug\netcoreapp3.1\softplan-testetecnico.runtimeconfig.dev.json
 D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\bin\Debug\netcoreapp3.1\softplan-testetecnico.dll
 D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\bin\Debug\netcoreapp3.1\softplan-testetecnico.pdb
-D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\obj\Debug\netcoreapp3.1\softplan-testetecnico.csprojAssemblyReference.cache
 D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\obj\Debug\netcoreapp3.1\softplan-testetecnico.AssemblyInfoInputs.cache
 D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\obj\Debug\netcoreapp3.1\softplan-testetecnico.AssemblyInfo.cs
 D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\obj\Debug\netcoreapp3.1\softplan-testetecnico.csproj.CoreCompileInputs.cache
@@ -18,3 +16,12 @@ D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\obj\Debug\ne
 D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\obj\Debug\netcoreapp3.1\softplan-testetecnico.dll
 D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\obj\Debug\netcoreapp3.1\softplan-testetecnico.pdb
 D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\obj\Debug\netcoreapp3.1\softplan-testetecnico.genruntimeconfig.cache
+D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\obj\Debug\netcoreapp3.1\softplan-testetecnico.MvcApplicationPartsAssemblyInfo.cs
+D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\obj\Debug\netcoreapp3.1\scopedcss\bundle\softplan-testetecnico.styles.css
+D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\obj\Debug\netcoreapp3.1\softplan-testetecnico.csproj.CopyComplete
+D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\bin\Debug\netcoreapp3.1\softplan-testetecnico.xml
+D:\Programming\Personal\softplan-testetecnico\softplan-testetecnico\obj\Debug\netcoreapp3.1\softplan-testetecnico.csprojAssemblyReference.cache

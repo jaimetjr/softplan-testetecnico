@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "05YCh46TOCiJFo4J26wacHXZDGRLNvSGkz3IswUsrQdOP6OIcCyGl05BQseFKUKFw40zx/dTOj2X4sX1hKfjFw==",
+  "dgSpecHash": "FRCvN6+jC53QcbG9w4gahaRy1SxxuuNO6aGFNMpAYc4mFQqVvda2COZRWCNskiCxeP26IkgEZT/BiKqEtM9m6g==",
   "success": true,
   "projectFilePath": "D:\\Programming\\Personal\\softplan-testetecnico\\softplan-testetecnico\\softplan-testetecnico.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Win 10\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Win 10\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Win 10\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Win 10\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Win 10\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Win 10\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
   "logs": []
 }
