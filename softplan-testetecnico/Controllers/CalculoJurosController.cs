@@ -19,12 +19,25 @@ namespace softplan_testetecnico.Controllers
             _service = service;
         }
 
+        /// <summary>
+        /// Calculo de Valor Final de Juros
+        /// </summary>
+        /// <remarks>
+        /// Ele espera dois parametros - Valor Inicial e Meses
+        /// Valor Inicial - Double
+        /// Meses - Int
+        /// </remarks>
+        /// <response code="200">Valor do calculo retornado</response>
         [HttpGet("CalculaJuros/{valorInicial}/{meses}")]
         public IActionResult CalculaJuros(double valorInicial, int meses)
         {
             return Ok(_service.CalculoJuros(valorInicial, meses));
         }
 
+        /// <summary>
+        /// Mostra o código fonte no GitHub
+        /// </summary>
+        /// <response code="200">Aparece a URL do GitHub</response>
         [HttpGet("ShowMeTheCode")]
         public IActionResult ShowMeTheCode()
         {

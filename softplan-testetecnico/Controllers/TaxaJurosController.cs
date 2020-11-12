@@ -19,6 +19,10 @@ namespace softplan_testetecnico.Controllers
             _service = service;
         }
 
+        /// <summary>
+        /// Retorna o Valor de Juros
+        /// </summary>
+        /// <response code="200">Apenas retorna o valor fixo em código</response>
         [HttpGet]
         public double Get()
         {

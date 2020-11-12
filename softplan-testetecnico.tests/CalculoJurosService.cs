@@ -16,7 +16,7 @@ namespace softplan_testetecnico.tests
         public void TestaSeFazOCalculoCorreto(double valorInicial, int meses, double valorEsperado)
         {
             
-            var calculoJurosService = new Services.CalculoJurosService.CalculoJurosService();
+            var calculoJurosService = new Services.CalculoJurosService.CalculoJurosService(null);
             Assert.Equal(valorEsperado, calculoJurosService.CalculoJuros(valorInicial, meses));
         }
     }

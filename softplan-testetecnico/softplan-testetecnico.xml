@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>softplan-testetecnico</name>
+    </assembly>
+    <members>
+        <member name="M:softplan_testetecnico.Controllers.CalculoJurosController.CalculaJuros(System.Double,System.Int32)">
+            <summary>
+            Calculo de Valor Final de Juros
+            </summary>
+            <param name="valorInicial">Valor Inicial</param>
+            <param name="meses">Meses</param>
+            <returns>Valor final do calculo com taxa de juros 0.01%</returns>
+        </member>
+    </members>
+</doc>
